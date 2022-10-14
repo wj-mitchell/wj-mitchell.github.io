@@ -1,6 +1,6 @@
 #exclude: ["README.md"]
-title: William Mitchell
-description: Temple University PhD Student
+title: Billy Mitchell
+description: Cognition & Neuroscience PhD Student
 show_downloads: true
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
