@@ -10,5 +10,4 @@ permalink: /
 
 [Twitter](https://twitter.com/wjmitchell_){: .btn }
 [Lab Website](https://sites.temple.edu/sanlab/){: .btn }
-[Google 
-Scholar]((https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en)){: .btn }
+[Google Scholar](https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en){: .btn }
