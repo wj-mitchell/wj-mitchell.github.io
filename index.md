@@ -13,10 +13,10 @@ permalink: /
 <p style="text-align: justify;">I'd graduated from Loyola University Maryland, after which I coordinated some really interesting <a href="https://www-nejm-org.libproxy.temple.edu/doi/10.1056/NEJMsa1502403?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov">nicotine</a> and <a href="https://academic-oup-com.libproxy.temple.edu/jat/article/41/2/83/2967155">cannabinoid studies</a> at <a href="https://www.hopkinsmedicine.org/psychiatry/research/bpru">Johns Hopkins University</a> and <a href="https://www-tandfonline-com.libproxy.temple.edu/doi/full/10.1080/19490976.2022.2083417?tab=permissions&scroll=top">GI microbiome research</a> at the <a href="https://www.chop.edu/centers-programs/division-gastroenterology-hepatology-and-nutrition">Children's Hospital of Philadelphia</a>. When I'm not working, I like hiking, playing Dungeons & Dragons (See my R functions in the <a href="https://github.com/wj-mitchell/DnDRuf"><i>DnDRuf Repo</i></a> or my <a href="https://wjpmitchell3.shinyapps.io/CombatSim/"><i>Combat Simulator App</i></a>!), and making <a href="https://doorprizeband.bandcamp.com/releases">music</a>.</p> 
 
 <h1 style="text-align: center;">Links</h1>
-[<img src="/assets/images/email_BW.png" alt="Email Me" width="70"/>](mailto:billy.mitchell@temple.edu)
-[<img src="/assets/images/CV_BW.png" alt="CV" width="70"/>](/docs/CV.pdf) 
-[<img src="/assets/images/github_BW.png" alt="Github Profile" width="70"/>](https://github.com/wj-mitchell) 
-[<img src="/assets/images/scholar_BW.png" alt="Google Scholar Page" width="70"/>](https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en) 
-[<img src="/assets/images/Youtube_BW.png" alt="Youtube Channel" width="70"/>](https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg) 
-[<img src="/assets/images/twitter_BW.png" alt="Twitter Profile" width="70"/>](https://twitter.com/wjmitchell_)
-[<img src="/assets/images/linkedin_BW.png" alt="LinkedIn Profile" width="70"/>](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2)
+[<img src="/assets/images/email_BW.png" alt="Email Me" width="60"/>](mailto:billy.mitchell@temple.edu){: .btn}
+[<img src="/assets/images/CV_BW.png" alt="CV" width="60"/>](/docs/CV.pdf){: .btn} 
+[<img src="/assets/images/github_BW.png" alt="Github Profile" width="60"/>](https://github.com/wj-mitchell){: .btn} 
+[<img src="/assets/images/scholar_BW.png" alt="Google Scholar Page" width="60"/>](https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en){: .btn} 
+[<img src="/assets/images/Youtube_BW.png" alt="Youtube Channel" width="60"/>](https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg){: .btn}
+[<img src="/assets/images/twitter_BW.png" alt="Twitter Profile" width="60"/>](https://twitter.com/wjmitchell_){: .btn}
+[<img src="/assets/images/linkedin_BW.png" alt="LinkedIn Profile" width="60"/>](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2){: .btn}
