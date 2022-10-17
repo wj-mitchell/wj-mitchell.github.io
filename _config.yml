@@ -13,15 +13,6 @@ back_to_top: true
 back_to_top_text: "Back to top"
 last_edit_timestamp: true
 logo: "/assets/images/logo.png"
-topnav:
-- title: Topnav
-  items:
-    - title: About Me
-      url: /docs/index.md
-- title: Topnav
-  items:
-    - title: Curriculum Vitae
-      url: /docs/CV.pdf
 # google_analytics:
 # ga_tracking:
 # ga_tracking_anonymize_ip: true
