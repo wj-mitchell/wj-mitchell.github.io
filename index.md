@@ -3,6 +3,7 @@ layout: default
 title: About Me
 nav_order: 1
 has_children: true
+permalink: /
 ---
 
 <div style="text-align: center;"><img src="/assets/images/Profile.jpg" alt="profile_photo" width="300"/></div>  
