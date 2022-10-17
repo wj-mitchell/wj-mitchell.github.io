@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Cirriculum Vitae
-nav_order: 2
+parent: About Me
+nav_order: 1
 permalink: /
 ---
 
