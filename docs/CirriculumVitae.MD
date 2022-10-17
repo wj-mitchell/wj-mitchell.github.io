@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Cirriculum Vitae
-parent: About Me
-nav_order: 1
-permalink: /
+nav_order: 2
 ---
 
 # Under Construction!
