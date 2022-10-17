@@ -2,8 +2,8 @@
 title: Billy Mitchell
 description: Cognition & Neuroscience PhD Student
 show_downloads: true
-theme: jekyll-theme-bulma
-# remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 aux_links:
