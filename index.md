@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-div {
+div{
   display: flex;
   justify-content: space-between
 }
