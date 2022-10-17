@@ -2,15 +2,17 @@
 title: Billy Mitchell
 description: Cognition & Neuroscience PhD Student
 show_downloads: true
-# theme: jekyll-theme-minimal
-remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
 plugins:
 - jekyll-remote-theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+aux_links:
+  "Contact Me":
+    - "mailto:billy.mitchell@temple.edu"
 back_to_top: true
 back_to_top_text: "Back to top"
 last_edit_timestamp: true
-# logo: 
+logo: "/assets/images/logo.jpg"
 # google_analytics:
 # ga_tracking:
 # ga_tracking_anonymize_ip: true
