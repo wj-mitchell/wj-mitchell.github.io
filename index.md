@@ -16,4 +16,4 @@ I'd graduated from Loyola University Maryland, after which I coordinated some re
 [<img src="/assets/images/CV_BW.png" alt="CV" width="150"/>](/docs/CV.pdf) 
 [<img src="/assets/images/scholar_BW.png" alt="Google Scholar Page" width="150"/>](https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en) 
 [<img src="/assets/images/Youtube_BW.png" alt="Youtube Channel" width="150"/>](https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg) 
-[<img src="/assets/images/twitter_BW.png" alt="Twitter Profile" width="150"/>](https://twitter.com/wjmitchell_) 
+[<img src="/assets/images/twitter_BW.png" alt="Twitter Profile" width="150"/>](https://twitter.com/wjmitchell_)
