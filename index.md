@@ -6,7 +6,7 @@ has_children: false
 permalink: /
 ---
 
-<img src="/assets/images/Profile.jpg" alt="profile_photo" align="left" width="300"/>
+<img src="/assets/images/Profile.jpg" alt="profile_photo" align="center" width="300"/>  
 
 I'm a fourth-year PhD Student in Chelsea Helion's [Social and Affective Neuroscience lab](https://sites.temple.edu/sanlab/) who uses naturalistic paradigms to study neural representations of emotion and how people regulate those emotions. I also co-direct the [Coding Outreach Group](https://tu-coding-outreach-group.github.io) which is a student-led organization aiming to increase computer programming literacy and to build an educational community with self-generated resources for coders of all levels.   
   
