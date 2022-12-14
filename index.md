@@ -17,22 +17,24 @@ permalink: /
 
 <h1 style="text-align: center;">Links</h1> 
 <div style="text-align: center;">
-  <a href="https://github.com/wj-mitchell"> 
-	<img src="/assets/images/github_White.png" alt="Github Profile" align="middle" style="margin: 20px 20px 20px 20px;" width="80"/> 
-  </a>
   <a href="https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en"> 
-	<img src="/assets/images/scholar_White.png" alt="Google Scholar Page" align="middle" style="margin: 20px 20px 20px 20px;"  width="80"/> 
-  </a>
-  <a href="https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg"> 
-	<img src="/assets/images/youtube_White.png" alt="Youtube Channel" align="middle" style="margin: 20px 20px 20px 20px;"  width="80"/> 
-  </a>
-  <a href="https://tu-coding-outreach-group.github.io/"> 
-	<img src="/assets/images/COG_White.png" alt="Coding Outreach Group" align="middle" style="margin: 20px 20px 20px 20px;" width="80"/> 
-  </a>
-  <a href="https://twitter.com/wjmitchell_"> 
-	<img src="/assets/images/twitter_White.png" alt="Twitter Profile" align="middle" style="margin: 20px 20px 20px 20px;"  width="80"/>
+	<img src="/assets/images/scholar_White.png" alt="Google Scholar Page" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/> 
   </a>
   <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2"> 
-	<img src="/assets/images/linkedin_White.png" alt="LinkedIn Profile" align="middle" style="margin: 20px 20px 20px 20px;"  width="80"/> 
+	<img src="/assets/images/linkedin_White.png" alt="LinkedIn Profile" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/> 
+  </a>
+  <a href="https://twitter.com/wjmitchell_"> 
+	<img src="/assets/images/twitter_White.png" alt="Twitter Profile" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/>
+  </a>
+</div>
+<div style="text-align: center;">
+  <a href="https://github.com/wj-mitchell"> 
+	<img src="/assets/images/github_White.png" alt="Github Profile" align="middle" style="margin: 20px 20px 20px 20px;" width="100"/> 
+  </a>
+  <a href="https://tu-coding-outreach-group.github.io/"> 
+	<img src="/assets/images/COG_White.png" alt="Coding Outreach Group" align="middle" style="margin: 20px 20px 20px 20px;" width="100"/> 
+  </a>
+  <a href="https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg"> 
+	<img src="/assets/images/youtube_White.png" alt="Youtube Channel" align="middle" style="margin: 20px 20px 20px 20px;"  width="100"/> 
   </a>
 </div>
