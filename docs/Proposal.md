@@ -1,8 +1,8 @@
-# ---
-# layout: default
-# title: Proposal
-# nav_order: 6
-# ---
+---
+layout: default
+title: Proposal
+nav_order: 4
+---
 
 Introduction
        Whether meeting strangers or trusting old friends, social situations are often rife with uncertainty. Uncertainty is important at least in part because it often yields pervasive, negative feelings that can be hard to manage (FeldmanHall & Shenhav, 2019) and which likely have effects upon how individuals evaluate information and make decisions. For example, adult populations consistently demonstrate aversion to ambiguous economic (Ellsberg, 1961; Li et al., 2015; Trautmann et al., 2008) and social sources of uncertainty (e.g., individuals exchange reward to reduce ambiguity in influencing others (Hertz et al., 2020)). Clinical populations, including those with schizophrenia (Fujino et al., 2016), autism spectrum, and anxiety disorders (Wigham et al., 2015) demonstrate even stronger aversive responses than typical populations and high uncertainty intolerance is associated with emotion dysregulation (Shu et al., 2021). Social ambiguity appears to have significant health ramifications for adolescents as well, as the presence of social stressors in early adolescence predicts depression susceptibility two years later (Pagliaccio et al., 2022). However, we understand very little about how social certainty judgments manifest, even among healthy and neurotypical adult populations.
