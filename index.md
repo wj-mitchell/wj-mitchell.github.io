@@ -7,6 +7,12 @@ permalink: /
 ---
 
 <div style="text-align: center;"><img src="/assets/images/Profile.jpg" alt="profile_photo" width="300"/></div>  
+
+<div>
+  <h1 style="text-align: center;"><b>SPSP 2024 Attendees</b></h1>  
+
+  <p style="text-align: justify;">The manuscript I'm presenting on here is currently under review, but all of the materials associated with it can be found on the project's <a href="https://osf.io/j5sku/"><i>OSF page</i></a> and this <a href="https://github.com/wj-mitchell/fright_night_study"><i>Github repository</i></a>, including the <a href="https://osf.io/preprints/psyarxiv/23wtz"><i>most recent verzion of the manuscript</i></a>.</p> 
+</div> 
   
 <h1 style="text-align: center;"><b>Hi, I'm Billy Mitchell</b></h1>  
   
