@@ -15,7 +15,7 @@ permalink: /
   
 <p style="text-align: justify;">I'd graduated from Loyola University Maryland, after which I coordinated some really interesting <a href="https://www-nejm-org.libproxy.temple.edu/doi/10.1056/NEJMsa1502403?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov">nicotine</a> and <a href="https://academic-oup-com.libproxy.temple.edu/jat/article/41/2/83/2967155">cannabinoid studies</a> at <a href="https://www.hopkinsmedicine.org/psychiatry/research/bpru">Johns Hopkins University</a> and <a href="https://www-tandfonline-com.libproxy.temple.edu/doi/full/10.1080/19490976.2022.2083417?tab=permissions&scroll=top">GI microbiome research</a> at the <a href="https://www.chop.edu/centers-programs/division-gastroenterology-hepatology-and-nutrition">Children's Hospital of Philadelphia</a>. When I'm not working, I like hiking, playing Dungeons & Dragons (See my R functions in the <a href="https://github.com/wj-mitchell/DnDRuf"><i>DnDRuf Repo</i></a> or my <a href="https://wjpmitchell3.shinyapps.io/CombatSim/"><i>Combat Simulator App</i></a>!), and making <a href="https://doorprizeband.bandcamp.com/releases">music</a>.</p> 
 
-<div>
+<div style="border-width:6px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
   <h1 style="text-align: center;"><b><i>ATTN: SPSP 2024 Attendees!</i></b></h1>  
 
   <p style="text-align: justify;">The manuscript I'm presenting on here is currently under review, but all of the materials associated with it can be found on the project's <a href="https://osf.io/j5sku/">OSF page</a> and this <a href="https://github.com/wj-mitchell/fright_night_study">Github repository</a>, including the <a href="https://osf.io/preprints/psyarxiv/23wtz">most recent version of the manuscript</a>.</p> 
