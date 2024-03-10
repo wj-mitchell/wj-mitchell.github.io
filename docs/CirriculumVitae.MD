@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cirriculum Vitae
+title: Curriculum Vitae
 nav_order: 2
 ---
 
