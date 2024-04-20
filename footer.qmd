@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+<font size="4">
+
+&nbsp;
+<!-- add line to divide content from footer -->
+<hr />
+
+<p style="text-align: center;">
+© 2022 William (Billy) Mitchell
+</p>
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+<font size="6">
+
+<!-- Add icons from font awesome -->
+<p style="text-align: center;">
+    <a href="https://github.com/wj-mitchell" target="_blank" class="fab fa-github" style="color:Tomato"></a>
+    <a href="https://twitter.com/wjmitchell_" target="_blank" class="fab fa-twitter" style="color:Tomato"></a>
+    <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2" target="_blank" class="fab fa-linkedin" style="color:Tomato"></a>
+</p>
+</font>

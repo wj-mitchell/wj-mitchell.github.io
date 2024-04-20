@@ -1,0 +1,27 @@
+---
+title: "William Mitchell"
+image: assets/images/Profile.jpg
+about:
+  template: trestles
+  image-width: 250px
+  links: 
+    - icon: envelope
+      text: Email Me
+      href: mailto:billy.mitchell@temple.edu
+    - icon: github
+      text: GitHub Profile
+      href: https://github.com/wj-mitchell
+    - icon: mortarboard
+      text: Google Scholar Profile
+      href: https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn Profile
+      href: https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2
+    - icon: twitter
+      text: Twitter Feed
+      href: https://twitter.com/wjmitchell_
+    - icon: youtube
+      text: Youtube Channel
+      href: https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg
+---
+
