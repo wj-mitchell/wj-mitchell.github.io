@@ -15,9 +15,9 @@ website:
       - href: pages/about.qmd
         icon: person-vcard
         text: About
-      - href: pages/projects.qmd
+      - href: pages/publications.qmd
         icon: people-fill
-        text: Research
+        text: Publications
       - href: pages/F99K00.qmd
         icon: award
         text: NIH F99/K00 Info

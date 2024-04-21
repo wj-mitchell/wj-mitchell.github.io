@@ -1,0 +1,40 @@
+---
+title: "Publications"
+format: 
+  html:
+    page-layout: full
+---
+
+<!-- Formatting notes: use callouts to specify article type https://quarto.org/docs/authoring/callouts.html -->
+<!-- .callout-note = empirical -->
+<!-- .callout-caution = review -->
+<!-- .callout-important = neuro -->
+<!-- Don't include icons (icon="false") -->
+
+Below are links to manuscripts that I primarily lead, as well as data and code repositories. Please [email me](mailto:billy.mitchell@temple.edu) if you cannot access any of the published materials. A full list of my work can also be found on [Google Scholar](https://scholar.google.com/citations?user=UtUW1zIAAAAJ&amp;hl=en). A list of the presentations associated with my work are listed on my [CV](CV.pdf){target="_blank"}.
+
+***
+
+<!-- FRIGHT NIGHT -->
+::: {.callout-note icon="false"}
+# Emotion regulation strategy use and forecasting in response to dynamic, multimodal stimuli
+
+*Journal of Experimental Psychology: General* (invited resubmission)
+
+**William Mitchell** | Joanne Stasiak | Steven Martinez | Kate Cliver | David Gregory | Helen Schmidt | Vishnu Murty | Chelsea Helion
+
+<a href="https://europepmc.org/article/ppr/ppr577219" target="_blank" class="btn btn-success btn-sm" role="button">Pre-print</a>&nbsp;<a href="https://osf.io/j5sku/?view_only=89d87669e7674096819c439ca109c483" target="_blank" class="btn btn-success btn-sm" role="button">Data + Code</a>
+:::
+
+<!-- DEVELOPMENTAL RSA -->
+::: {.callout-note icon="false"}
+# Developmental differences in affective representation between prefrontal and subcortical structures
+
+*Social Cognitive and Affective Neuroscience* (2024)
+
+**William Mitchell** | Lindsey Tepfer | Nicole Henninger | Susan B Perlman | Vishnu Murty | Chelsea Helion
+
+<a href="https://academic.oup.com/scan/article/17/3/311/6332882" target="_blank" class="btn btn-success btn-sm" role="button">Article</a>&nbsp;<a href="https://osf.io/9nhwt/" target="_blank" class="btn btn-success btn-sm" role="button">Data + Code</a>
+:::
+
+***
