@@ -1,14 +1,44 @@
 ---
-title: "About Me"
-format: 
-  html:
-    page-layout: full
+title: ""
+image: ../assets/images/Profile_.jpg
+about:
+  id: header
+  template: trestles
+  image-width: 9cm
+  image-shape: round
+  links: 
+    - icon: envelope
+      text: Email Me
+      href: mailto:billy.mitchell@temple.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/wj-mitchell
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=UtUW1zIAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/wjmitchell_
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg
 ---
 
-Hi, I'm Billy Mitchell
+:::{#header}
 
-I'm a fifth-year PhD Candidate in Chelsea Helion's [Social and Affective Neuroscience lab](https://www.tu-sanlab.com/) who uses naturalistic paradigms to study neural representations of uncertainty, emotion, and self-regulation. I also co-direct the [Coding Outreach Group](https://tu-coding-outreach-group.github.io) which is a student-led organization aiming to increase computer programming literacy and to build an educational community with self-generated resources for coders of all levels.
+<h2 style="text-align: center; max-width: 25ch;"> About Me </h2>
+
+<p style="text-align: justify; max-width: 50ch;">I'm a fifth-year PhD Candidate and NIH F99/K00 Fellow in Chelsea Helion's <a href="https://www.tu-sanlab.com/">Social and Affective Neuroscience lab</a>. I use naturalistic paradigms to study how we dynamically resolve uncertainty in social situations. I also research neural representations of emotion and how people regulate their emotions. I often prioritize high ecological-validity in my study designs and am drawn towards computational methodologies and novel statistical techniques.</p>
   
-I'd graduated from Loyola University Maryland, after which I coordinated some really interesting [nicotine](https://www-nejm-org.libproxy.temple.edu/doi/10.1056/NEJMsa1502403?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov) and [cannabinoid studies](https://academic-oup-com.libproxy.temple.edu/jat/article/41/2/83/2967155) at [Johns Hopkins University](https://www.hopkinsmedicine.org/psychiatry/research/bpru) and [GI microbiome research](https://www-tandfonline-com.libproxy.temple.edu/doi/full/10.1080/19490976.2022.2083417?tab=permissions&scroll=top) at the [Children's Hospital of Philadelphia](https://www.chop.edu/centers-programs/division-gastroenterology-hepatology-and-nutrition). 
+<p style="text-align: justify; max-width: 50ch;"> When I'm not working, I like hiking, playing tabletop RPGs (See my R functions in the <a href="https://github.com/wj-mitchell/DnDRuf"><i>DnDRuf Repo</i></a> or my <a href="https://wjpmitchell3.shinyapps.io/CombatSim/"><i>Combat Simulator App</i></a>!), and making <a href="https://doorprizeband.bandcamp.com/releases">music</a>.</p> 
 
-When I'm not working, I like hiking, playing Dungeons & Dragons (See my R functions in the [DnDRuf Repo](https://github.com/wj-mitchell/DnDRuf) or my [Combat Simulator App](https://wjpmitchell3.shinyapps.io/CombatSim/)!), and making [music](https://doorprizeband.bandcamp.com/releases). 
+<p style="text-align: justify; max-width: 50ch;">I have proudly served many organizing roles within my union - <a href="https://tugsa.org/">TUGSA</a> - including strike coordinator and union steward. As someone from a low SES background with no college in my family history, I am accutely aware of the effects that economics play in making education and a career in education accessible. Collective action is how we fix it. </p> 
+
+<h3 style="text-align: center; max-width: 30ch;"> Perseverence Conquers </h3> 
+<img src="../assets/images/TUGSA_StrikeGreen.png" alt="Perseverance Conquers" style="display: block; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 00px;" width="175px"/>
+
+
+:::

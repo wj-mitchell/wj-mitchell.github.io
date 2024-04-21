@@ -4,28 +4,43 @@ project:
 
 website:
   title: "William Mitchell"
+  favicon: assets/images/logo.png
   navbar:
-    right:
+    logo: assets/images/logo.png
+    background: primary
+    left:
       - href: index.qmd
+        icon: house
         text: Home
       - href: pages/about.qmd
+        icon: person-vcard
         text: About
       - href: pages/projects.qmd
-        text: Research Projects
+        icon: people-fill
+        text: Research
       - href: pages/F99K00.qmd
-        text: NIH F99/K00 Information
-      - href: pages//Resume.pdf
+        icon: award
+        text: NIH F99/K00 Info
+
+    right:
+      - href: pages/Resume.pdf
+        icon: journal-bookmark-fill
         text: Resume
       - href: pages/CV.pdf
+        icon: archive-fill
         text: CV
+    
+    page-footer:
+      background: secondary
 
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
-    css: assetys/css/style.css
+      light: assets/css/light.scss
+      dark: assets/css/dark.scss
+    css: assets/css/style.css
     toc: true
-    
+    mainfont: Open Sans
+
 
 editor: source

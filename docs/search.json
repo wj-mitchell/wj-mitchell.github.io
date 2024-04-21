@@ -2,28 +2,35 @@
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
-    "title": "Research Projects",
+    "title": "Research",
     "section": "",
     "text": "Under Construction"
   },
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi, I’m Billy Mitchell\nI’m a fifth-year PhD Candidate in Chelsea Helion’s Social and Affective Neuroscience lab who uses naturalistic paradigms to study neural representations of uncertainty, emotion, and self-regulation. I also co-direct the Coding Outreach Group which is a student-led organization aiming to increase computer programming literacy and to build an educational community with self-generated resources for coders of all levels.\nI’d graduated from Loyola University Maryland, after which I coordinated some really interesting nicotine and cannabinoid studies at Johns Hopkins University and GI microbiome research at the Children’s Hospital of Philadelphia.\nWhen I’m not working, I like hiking, playing Dungeons & Dragons (See my R functions in the DnDRuf Repo or my Combat Simulator App!), and making music."
-  },
-  {
-    "objectID": "footer.html",
-    "href": "footer.html",
     "title": "William Mitchell",
     "section": "",
-    "text": "© 2022 William (Billy) Mitchell"
+    "text": "Email Me\n  \n  \n    \n     GitHub\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n  \n    \n     Youtube\n  \n\n  \n  \n\nAbout Me\n\n\nI’m a fifth-year PhD Candidate and NIH F99/K00 Fellow in Chelsea Helion’s Social and Affective Neuroscience lab. I use naturalistic paradigms to study how we dynamically resolve uncertainty in social situations. I also research neural representations of emotion and how people regulate their emotions. I often prioritize high ecological-validity in my study designs and am drawn towards computational methodologies and novel statistical techniques.\n\n\nWhen I’m not working, I like hiking, playing tabletop RPGs (See my R functions in the DnDRuf Repo or my Combat Simulator App!), and making music.\n\n\nI have proudly served many organizing roles within my union - TUGSA - including strike coordinator and union steward. As someone from a low SES background with no college in my family history, I am accutely aware of the effects that economics play in making education and a career in education accessible. Collective action is how we fix it.\n\n\nPerseverence Conquers"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "William Mitchell",
+    "section": "",
+    "text": "Email Me\n  \n  \n    \n     GitHub\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n  \n    \n     Youtube\n  \n\n  \n  \n\nHi, I’m William Mitchell\n\n\nI usually go by Billy. I’m a Cognition & Neuroscience Ph.D. candidate in Philadelphia, PA who researches how we make complex and dynamic social decisions, and how we exert self-control over our emotions, and how we process emotions.\n\n\nResearch Interests\n\n\n Statistics & Quantitative Methods –  fMRI   Feature-Rich Stimuli –  Programming   Naturalistic Study Design\n\n\n\n\nLooking for a Post-Doc?\n\n\nI’m also an NIH F99/K00 funded fellow currently searching for post-doctoral positions to which I can bring my funding and continue my research! Please reach out if you’re interested."
+  },
+  {
+    "objectID": "pages/F99K00.html#future-applicants",
+    "href": "pages/F99K00.html#future-applicants",
+    "title": "NIH DSPAN (F99/K00) Application Materials",
+    "section": "Future Applicants",
+    "text": "Future Applicants\nIf you choose to share your materials after you apply as I have, please let me know! I will include a link to your materials here so that we can create a resource network for those who need it in the future. Alternatively, if you don’t want to go through the hassle of self-hosting, I’d be happy to add your materials to my repository if you send them to me."
   },
   {
     "objectID": "pages/F99K00.html#contact-acknowledgements",
     "href": "pages/F99K00.html#contact-acknowledgements",
-    "title": "NIH F99/K00 Information",
+    "title": "NIH DSPAN (F99/K00) Application Materials",
     "section": "Contact & Acknowledgements",
     "text": "Contact & Acknowledgements\nIf you have any questions or concerns, please don’t hesitate to reach out at billy.mitchell@temple.edu. I’m happy to give some more advice or feedback. Also, I have to give a lot of thanks to Haroon Popal who massively helped me in preparing this application by letting me take a look at all of his materials."
   }

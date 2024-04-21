@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Colors
+$dark_moss_green: #606C38;
+$pakistan_green: #283618;
+$cornsilk: #FEFAE0;
+$earth_yellow: #DDA15E;
+$tigers_eye: #BC6C25;
+$umber: #766153;
+$black: #08090A;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+// Base document colors
+$navbar-bg: $black; // navbar
+$navbar-fg: $earth_yellow; // navbar foreground elements
+$navbar-hl: $earth_yellow; // highlight color when on a page
+$body-bg: $umber; // page background 
+$body-color: $cornsilk; // page text 
+$footer-bg: $black; // footer 
+$link-color: $earth_yellow; // hyperlinks 
+
+// Inline code
+$code-bg: $earth_yellow; // inline code background color
+$code-color: $pakistan_green; // inline code text color
+
+// Code blocks
+$code-block-bg: $earth_yellow; // code block background color
