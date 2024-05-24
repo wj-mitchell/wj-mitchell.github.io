@@ -50,7 +50,7 @@ I usually go by Billy. I'm a Cognition & Neuroscience Ph.D. candidate in Philade
 <p style="text-align: center;"> ***Looking for a Post-Doc?*** </p>
 
   <p style="text-align: center;">
-  I'm also an *[NIH F99/K00 funded fellow](docs/pages/F99K00.html)* currently searching for post-doctoral positions in the general area around Philadelphia to which I can bring my funding and continue my research! Please [reach out](mailto:billy.mitchell@temple.edu) if you're interested.
+  I'm also an *[NIH F99/K00 funded fellow](https://wj-mitchell.github.io/pages/F99K00.html)* currently searching for post-doctoral positions in the general area around Philadelphia to which I can bring my funding and continue my research! Please [reach out](mailto:billy.mitchell@temple.edu) if you're interested.
   </p>
 </div>
 
