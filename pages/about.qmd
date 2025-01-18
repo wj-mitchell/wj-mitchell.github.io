@@ -19,9 +19,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/wjmitchell_
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/wj-mitchell.bsky.social
     - icon: youtube
       text: Youtube
       href: https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg
@@ -31,7 +31,7 @@ about:
 
 <h2 style="text-align: center; max-width: 25ch;"> About Me </h2>
 
-<p style="text-align: justify; max-width: 50ch;">I'm a fifth-year PhD Candidate and NIH F99/K00 Fellow in Chelsea Helion's <a href="https://www.tu-sanlab.com/">Social and Affective Neuroscience lab</a>. I use naturalistic paradigms to study how we dynamically resolve uncertainty in social situations. I also research neural representations of emotion and how people regulate their emotions. I often prioritize high ecological-validity in my study designs and am drawn towards computational methodologies and novel statistical techniques.</p>
+<p style="text-align: justify; max-width: 50ch;">I'm a sixth-year PhD Candidate and NIH F99/K00 Fellow in Chelsea Helion's <a href="https://www.tu-sanlab.com/">Social and Affective Neuroscience lab</a>. I use naturalistic paradigms to study how we dynamically resolve uncertainty in social situations. I also research neural representations of emotion and how people regulate their emotions. I often prioritize high ecological-validity in my study designs and am drawn towards computational methodologies and novel statistical techniques.</p>
   
 <p style="text-align: justify; max-width: 50ch;"> When I'm not working, I like hiking, playing tabletop RPGs (See my R functions in the <a href="https://github.com/wj-mitchell/DnDRuf"><i>DnDRuf Repo</i></a> or my <a href="https://wjpmitchell3.shinyapps.io/CombatSim/"><i>Combat Simulator App</i></a>!), and making <a href="https://doorprizeband.bandcamp.com/releases">music</a>.</p> 
 
