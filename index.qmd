@@ -19,9 +19,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwjpmitchell%2F&sa=D&sntz=1&usg=AOvVaw1kGDftndB1oDEtgTTuevY2
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/wjmitchell_
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/wj-mitchell.bsky.social
     - icon: youtube
       text: Youtube
       href: https://www.youtube.com/channel/UCCWDaY812TBOQ2iaXk3buLg
@@ -44,15 +44,14 @@ I usually go by Billy. I'm a Cognition & Neuroscience Ph.D. candidate in Philade
 </p>
 </br>
 
-
-<div style="border: 5px dotted; padding:10px;">
+<!-- <div style="border: 5px dotted; padding:10px;">
 
 <p style="text-align: center;"> ***Looking for a Post-Doc?*** </p>
 
   <p style="text-align: center;">
   I'm also an *[NIH F99/K00 funded fellow](https://wj-mitchell.github.io/pages/F99K00.html)* currently searching for post-doctoral positions in the general area around Philadelphia to which I can bring my funding and continue my research! Please [reach out](mailto:billy.mitchell@temple.edu) if you're interested.
   </p>
-</div>
+</div> -->
 
 
 :::
