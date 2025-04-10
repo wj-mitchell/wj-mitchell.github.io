@@ -13,6 +13,11 @@
 
 # NIH DSPAN (F99/K00) Application Materials
 
+## Please Note
+In March 2025, the Trump administration more or less illegitimately terminated the D-SPAN funding mechanism. As such no future applications will be meaningfully considered, though I believe you can still technically submit as of March 2025. **This is an unprecedented attack on science and cannot be tolerated**. I am leaving all of my documentation on the subject up and otherwise unaltered. I doubt that it will serve the purpose I intended - to help applicants win this award - but will likely now exist as a memorial and reminder of **what we lose when we allow our fears and lesser impulses to drive our politics**. Diversity grants don’t produce lesser scientists—they make sure that brilliant under-resourced people aren’t quietly forced out of academia like a virus from a body. If we let this happen, we’re not just losing the people who are going to cure cancers, solve dementia, and ease the sufferings that touch everyone.
+ 
+## Details of Grant 
+ 
 In August 2023, I received an NIH [Blueprint and BRAIN Initiative Diversity Specialized Predoctoral to Postdoctoral Advancement in Neuroscience (D-SPAN) F99 / K00 Award](https://neuroscienceblueprint.nih.gov/training/nih-blueprint-and-brain-initiative-d-span-award-f99k00), which provides up to two years of predoctoral funding and four years of postdoctoral funding to eligible applicants (i.e., people who meet the NIH definition of being from a diverse background; see the [funding announcement](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-21-012.html)). This funding mechanism, in my opinion, is not as well known as it should be. I wanted to document and share my experience to help others learn about the grant and know what to expect, so I've made everything available at [this publicly accessible repository](https://github.com/wj-mitchell/DSPAN_Details). This includes
 
 * General information about the grant
