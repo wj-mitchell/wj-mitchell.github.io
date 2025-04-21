@@ -44,6 +44,16 @@ I usually go by Billy. I'm a Cognition & Neuroscience Ph.D. candidate in Philade
 </p>
 </br>
 
+
+ <div style="border: 5px dotted; padding:10px;">
+
+<p style="text-align: center;"> ***Attending SANS 2025?*** </p>
+
+  <p style="text-align: center;">
+  Check out my page covering my recent work, which I'll be presenting at the Social & Affective Neuroscience Society Conference April 24th through April 26th.
+  </p>
+</div>
+
 <!-- <div style="border: 5px dotted; padding:10px;">
 
 <p style="text-align: center;"> ***Looking for a Post-Doc?*** </p>
