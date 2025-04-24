@@ -50,7 +50,7 @@ I usually go by Billy. I'm a Cognition & Neuroscience Ph.D. candidate in Philade
 <p style="text-align: center;"> ***Attending SANS 2025?*** </p>
 
   <p style="text-align: center;">
-  Check out my page covering my recent work, which I'll be presenting at the Social & Affective Neuroscience Society Conference April 24th through April 26th.
+  Check out [my page](https://wj-mitchell.github.io/pages/Sans_Poster) covering recent work on the effects of continuous ratings during fMRI, which I'll be presenting at the Social & Affective Neuroscience Society Conference April 24th through April 26th.
   </p>
 </div>
 

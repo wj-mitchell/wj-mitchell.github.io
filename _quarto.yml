@@ -22,7 +22,7 @@ website:
         icon: award
         text: NIH F99/K00 Info
       - href: pages/SANS_Poster.qmd
-        icon: person-chalkboard
+        icon: chalkboard-user
         text: SANS Poster
 
     right:

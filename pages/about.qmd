@@ -37,7 +37,7 @@ about:
 
 <p style="text-align: justify; max-width: 50ch;">I have proudly served many organizing roles within my union - <a href="https://tugsa.org/">TUGSA</a> - including strike coordinator and union steward. As someone from a low SES background with no college in my family history, I am accutely aware of the effects that economics play in making education and a career in education accessible. Collective action is how we fix it. </p> 
 
-<h3 style="text-align: center; max-width: 30ch;"> Perseverence Conquers </h3> 
+<h3 style="text-align: center; max-width: 30ch;"> Perseverance Conquers </h3> 
 <img src="../assets/images/TUGSA_StrikeGreen.png" alt="Perseverance Conquers" style="display: block; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 00px;" width="175px"/>
 
 
