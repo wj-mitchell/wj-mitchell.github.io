@@ -32,7 +32,7 @@ about:
 <h2 style="text-align: center;"> Hi, I'm William Mitchell </h2>
 
 <p style="text-align: center;">
-I usually go by Billy. I'm a Cognition & Neuroscience Ph.D. candidate in Philadelphia, PA who researches how we make complex and dynamic social decisions, and how we exert self-control over our emotions, and how we process emotions.
+I usually go by Billy. I recently completed a Cognition & Neuroscience PhD at Temple University and I am now a post-doctorate fellow at Rutgers University Newark. I research how we make complex and dynamic social decisions, and how we exert self-control over our emotions, and how we process emotions.
 </p>
 
 <h2 style="text-align: center;"> Research Interests </h2>
@@ -45,14 +45,14 @@ I usually go by Billy. I'm a Cognition & Neuroscience Ph.D. candidate in Philade
 </br>
 
 
- <div style="border: 5px dotted; padding:10px;">
+<!--  <div style="border: 5px dotted; padding:10px;"> -->
 
-<p style="text-align: center;"> ***Attending SANS 2025?*** </p>
+<!-- <p style="text-align: center;"> ***Attending SANS 2025?*** </p> -->
 
-  <p style="text-align: center;">
-  Check out [my page](https://wj-mitchell.github.io/pages/Sans_Poster) covering recent work on the effects of continuous ratings during fMRI, which I'll be presenting at the Social & Affective Neuroscience Society Conference April 24th through April 26th.
-  </p>
-</div>
+<!--   <p style="text-align: center;"> -->
+<!--   Check out [my page](https://wj-mitchell.github.io/pages/Sans_Poster) covering recent work on the effects of continuous ratings during fMRI, which I'll be presenting at the Social & Affective Neuroscience Society Conference April 24th through April 26th. -->
+<!--   </p> -->
+<!-- </div> -->
 
 <!-- <div style="border: 5px dotted; padding:10px;">
 
