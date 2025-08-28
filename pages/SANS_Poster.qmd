@@ -1,0 +1,37 @@
+<head>
+  <meta property="og:title" content="SANS Poster" />
+  <meta property="og:description" content="Information and Materials Related to My SANS 2025 Poster" />
+  <meta property="og:image" content="assets/images/logo.png" />
+  <meta property="og:url" content="https://wj-mitchell.github.io/docs/SANS_Poster.html" />
+</head>
+
+# The Neural Impact of Continuous Ratings in a Naturalistic Video Paradigm
+**Presented at the Social and Affective Neuroscience Society Annual Conference**
+
+**Poster Number P1-A-7 during the first session (4/24/2025, 3:30 PM from 5:00 PM)**
+
+## Links
+
+[OSF Repo](https://osf.io/nhwa4/)
+ 
+## Citations
+
+1. Kassam, K. S., Markey, A. R., Cherkassky, V. L., Loewenstein, G., & Just, A. (2013). Identifying Emotions on the Basis of Neural Activation. PLOS ONE, 8(6), 12. [https://doi.org/10.1371/journal.pone.0066032](https://doi.org/10.1371/journal.pone.0066032)
+2. Saarimäki, H. (2021). Naturalistic Stimuli in Affective Neuroimaging: A Review. Frontiers in Human Neuroscience, 15, 675068. [https://doi.org/10.3389/fnhum.2021.675068](https://doi.org/10.3389/fnhum.2021.675068)
+3. Jääskeläinen, I. P., Iiro P. Jä̈askëlainen, Ahveninen, J., Jyrki Ahveninen, Vasily Klucharev, Vasily Klucharev, Anna N. Shestakova, Анна Шестакова, Levy, J., Levy, J. C., & Jonathan Lévy. (2022). Behavioral Experience-Sampling Methods in Neuroimaging Studies With Movie and Narrative Stimuli. Frontiers in Human Neuroscience, 16. [https://doi.org/10.3389/fnhum.2022.813684](https://doi.org/10.3389/fnhum.2022.813684)
+4. Esteban, O., Blair, R., Markiewicz, C. J., Berleant, S. L., Moodie, C., Ma, F., Isik, A. I., Erramuzpe, A., Goncalves, M., Poldrack, R. A., & Gorgolewski, K. J. (2017). Poldracklab/Fmriprep: 1.0.0-Rc5 [Computer software]. Zenodo. [https://doi.org/10.5281/ZENODO.996169](https://doi.org/10.5281/ZENODO.996169)
+5. Jenkinson, M., Beckmann, C. F., Behrens, T. E. J., Woolrich, M. W., & Smith, S. M. (2012). FSL. NeuroImage, 62(2), 782–790. [https://doi.org/10.1016/j.neuroimage.2011.09.015](https://doi.org/10.1016/j.neuroimage.2011.09.015)
+6. Chang, L., Eshin Jolly, Cheong, J. H., Burnashev, A., & Chen, A. (2018). cosanlab/nltools: 0.3.11 [Computer software]. Zenodo. [https://doi.org/10.5281/ZENODO.2229813](https://doi.org/10.5281/ZENODO.2229813)
+7. ERROR
+8. Chen, J., Leong, Y. C., Honey, C. J., Yong, C. H., Norman, K. A., & Hasson, U. (2017). Shared memories reveal shared structure in neural activity across individuals. Nature Neuroscience, 20(1), 115–125. https://doi.org/10.1038/nn.4450
+9. Thornton, M. A., & Mitchell, J. P. (2018). Theories of Person Perception Predict Patterns of Neural Activity During Mentalizing. Cerebral Cortex, 28(10), 3505–3520. [https://doi.org/10.1093/cercor/bhx216](https://doi.org/10.1093/cercor/bhx216)
+
+## Related Works
+
+Borja Jimenez, K. C., Abdelgabar, A. R., De Angelis, L., McKay, L. S., Keysers, C., & Gazzola, V. (2020). Changes in brain activity following the voluntary control of empathy. NeuroImage, 216, 116529. [https://doi.org/10.1016/j.neuroimage.2020.116529](https://doi.org/10.1016/j.neuroimage.2020.116529)
+Hutcherson, C. A., Goldin, P. R., Ochsner, K. N., Gabrieli, J. D. E., Barrett, L. F., & Gross, J. J. (2005). Attention and emotion: Does rating emotion alter neural responses to amusing and sad films? NeuroImage, 27(3), 656–668. [https://doi.org/10.1016/j.neuroimage.2005.04.028](https://doi.org/10.1016/j.neuroimage.2005.04.028)
+Lahnakoski, J. M., Glerean, E., Jääskeläinen, I. P., Hyönä, J., Hari, R., Sams, M., & Nummenmaa, L. (2014). Synchronous brain activity across individuals underlies shared psychological perspectives. NeuroImage, 100(100), 316–324. [https://doi.org/10.1016/j.neuroimage.2014.06.022](https://doi.org/10.1016/j.neuroimage.2014.06.022)
+Nummenmaa, L., Glerean, E., Viinikainen, M., Jääskeläinen, I. P., Hari, R., & Sams, M. (2012). Emotions promote social interaction by synchronizing brain activity across individuals. Proceedings of the National Academy of Sciences of the United States of America, 109(24), 9599–9604. [https://doi.org/10.1073/pnas.1206095109](https://doi.org/10.1073/pnas.1206095109)
+
+## Contact & Acknowledgements 
+If you have any questions or concerns, please don't hesitate to reach out at [billy.mitchell@temple.edu](mailto:billy.mitchell@temple.edu).
